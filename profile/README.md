@@ -14,6 +14,7 @@
 - [75th記念祭HP](https://kinensai.vercel.app/)
 - [73rd記念祭HP(非公式)](https://kinensai73.netlify.app/)
 ### 504HP
+- [504HP(80th)](https://504-hp-2026.vercel.app/)
 - [504HP(79th)](https://504hp-2025.vercel.app/)
 - [504HP(78th)](https://504hp.vercel.app/)
 ### その他
